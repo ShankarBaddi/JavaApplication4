@@ -14,6 +14,9 @@ public class Add {
     public void nan(){
         System.out.println("how r u?");
     }
+    public void mam(){
+        System.out.println("Wts up");
+                }
     public static void main(String args[]){
         int d=3;
         int f=5;
