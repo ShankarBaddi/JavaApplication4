@@ -20,10 +20,12 @@ public class JavaApplication4 {
         System.out.println("nn");
 int a=10;
 int b=20;
-int c;        
+int c;  
+int d;
         c=a+b;
         System.out.println(c);
-        
+      d=b-a;  
+       System.out.println(d); 
     }
     
 }
