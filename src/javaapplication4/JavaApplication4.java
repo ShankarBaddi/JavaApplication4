@@ -10,8 +10,7 @@ package javaapplication4;
  * @author shankar
  */
 public class JavaApplication4 {
-int a;
-int b;
+
     /**
      * @param args the command line arguments
      */
@@ -19,7 +18,11 @@ int b;
         // TODO code application logic herde
         System.out.println("shankar");
         System.out.println("nn");
-        System.out.println();
+int a=10;
+int b=20;
+int c;        
+        c=a+b;
+        System.out.println(c);
         
     }
     
