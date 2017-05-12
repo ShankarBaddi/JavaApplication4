@@ -21,11 +21,11 @@ public class JavaApplication4 {
 int a=10;
 int b=20;
 int c;  
-int e;
+int v;
         c=a+b;
         System.out.println(c);
-      e=b-a;  
-       System.out.println(e); 
+      v=b-a;  
+       System.out.println(v); 
     }
     
 }
